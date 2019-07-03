@@ -69,3 +69,15 @@ Ping Yu 0002,Nanjing University,http://ics.nju.edu.cn/people/pingyu,NOSCHOLARPAG
 
 ## 如何添加信息?
 - [ ] 我依照官网以及俞扬老师编写的说明向csrankings仓库提交 pull requests 与 issues
+
+## 分数计算方法
+计算某机构在单一领域的分值:
+- 统计每位 faculty 发表在高水平会议/期刊上的文章数 (# Pubs.)
+- 为每位 faculty 计算分值 (称为 Adjusted Counts; Adj. #)
+  - sum(foreach paper in Pubs : 1 / # of coauthors)
+- 为该机构计算分值 (Geometric Mean Count; Count)
+  - sum(foreach faculty in institution : adjusted count for faculty) + 1
+
+计算某机构在多个领域的综合分值:
+- 设对每个领域 a1, a2, ..., an, 该机构对应分值为 c1, c2, ..., cn,
+则, 该机构在这n个领域的综合分值是 ((c1 + 1) (c2 + 1) ... (cn + 1)) 的 n 次方根
