@@ -22,6 +22,7 @@ csrankings 要求提供按如下格式提供信息:
 `name,affiliation,homepage,scholarid`
 - `name`: 在 dblp 上的姓名 (如有需要, 添加去重编号后缀, 如 `0001`)
 - `affiliation`: 对我们来说, 统一为 Nanjing University
+(State Key Laboratory for Novel Software Technology, Nanjing University, China)
 - `homepage`: 个人主页
 - `scholarid`: google scholar id, 就是 google scholar 页面链接中的 `user=` 域
 
@@ -34,6 +35,7 @@ Jian Lv 0001,Nanjing University,https://cs.nju.edu.cn/yuhuang,go8RGMkAAAAJ
 Jian Lü 0001,Nanjing University,https://cs.nju.edu.cn/yuhuang,go8RGMkAAAAJ
 更正 (homepage 有误; google scholar id 有误)
 Jian Lu 0001,Nanjing University,NOSCHOLARPAGE (未查到 homepage, 未查到 google scholar 页面)
+(使用系主页介绍页面: http://cs.nju.edu.cn/58/2a/c2639a153642/page.htm)
 
 陶先平:
 Xianping Tao,Nanjing University,http://moon.nju.edu.cn/people/xianpingtao,F3mGYVoAAAAJ
@@ -52,20 +54,54 @@ Chang Xu 0001,Nanjing University,https://cs.nju.edu.cn/changxu,jlZOlxIAAAAJ
 
 ### 数据库中待添加:
 徐锋:
+- [已提交PR] [已提交Issue] 
 Feng Xu 0007,Nanjing University,http://ics.nju.edu.cn/people/fengxu,Fw3wFocAAAAJ
+https://scholar.google.com/citations?hl=en&user=Fw3wFocAAAAJ
 黄宇:
+- [已提交PR] [已提交Issue] 
 Yu Huang 0002,Nanjing University,https://cs.nju.edu.cn/yuhuang,UWquqLIAAAAJ
+https://scholar.google.com/citations?hl=en&user=UWquqLIAAAAJ
 
 ### 待确定是否添加:
 胡昊:
 Hao Hu 0001,Nanjing University,NOSCHOLARPAGE (未查到homepage, 未查到 google scholar页面)
+
 曹春:
+- [已提交PR] [已提交Issue] 
 Chun Cao,Nanjing University,https://ccao.cc/en,U08cMmAAAAAJ
+https://scholar.google.com/citations?hl=en&user=U08cMmAAAAAJ
+
 余萍:
 Ping Yu 0002,Nanjing University,http://ics.nju.edu.cn/people/pingyu,NOSCHOLARPAGE (未查到 google scholar 页面)
 
 ### 助理研究员信息
-- [ ] 待整理
+马骏:
+Nanjing University,http://ics.nju.edu.cn/people/junma,NOSCHOLARPAGE (未查到精确 dblp 页面; 未查到 google scholar 页面)
+
+汪亮:
+- [已提交PR] [已提交Issue] 
+Liang Wang 0006,Nanjing University,http://cs.nju.edu.cn/wangliang,O6EwhtYAAAAJ
+https://scholar.google.com/citations?hl=en&user=O6EwhtYAAAAJ
+
+姚远:
+- [已提交PR] [已提交Issue]
+Yuan Yao 0001,Nanjing University,http://cs.nju.edu.cn/yuanyao/index.htm,vUvt8JYAAAAJ
+https://scholar.google.com/citations?hl=en&user=vUvt8JYAAAAJ
+
+魏恒峰:
+- [已提交PR] [已提交Issue]
+Hengfeng Wei,Nanjing University,http://www.bigoh.net/wiki/index.php/user:Hengfeng-Wei,HK9-98EAAAAJ
+https://scholar.google.com/citations?hl=en&user=HK9-98EAAAAJ
+
+徐经纬:
+Nanjing University,http://ics.nju.edu.cn/people/jingweixu,15maGTwAAAAJ (未查到精确 dblp 页面)
+
+蒋炎岩:
+- [已提交PR] Yanyan Jiang 0001,Nanjing University,http://ics.nju.edu.cn/~jyy,4HxZiEcAAAAJ
+https://scholar.google.com/citations?hl=en&user=4HxZiEcAAAAJ
+
+秦逸:
+Nanjing University, (未查到精确 dblp 页面, 未查到 homepage, 未查到 google scholar 页面)
 
 ## 如何添加信息?
 - [ ] 我依照官网以及俞扬老师编写的说明向csrankings仓库提交 pull requests 与 issues
