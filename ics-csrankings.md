@@ -22,7 +22,7 @@ csrankings 要求提供按如下格式提供信息:
 `name,affiliation,homepage,scholarid`
 - `name`: 在 dblp 上的姓名 (如有需要, 添加去重编号后缀, 如 `0001`)
 - `affiliation`: 对我们来说, 统一为 Nanjing University
-(State Key Laboratory for Novel Software Technology, Nanjing University, China)
+(State Key Laboratory for Novel Software Technology, Nanjing University, China (http://cs.nju.edu.cn/))
 - `homepage`: 个人主页
 - `scholarid`: google scholar id, 就是 google scholar 页面链接中的 `user=` 域
 
@@ -97,7 +97,8 @@ https://scholar.google.com/citations?hl=en&user=HK9-98EAAAAJ
 Nanjing University,http://ics.nju.edu.cn/people/jingweixu,15maGTwAAAAJ (未查到精确 dblp 页面)
 
 蒋炎岩:
-- [已提交PR] Yanyan Jiang 0001,Nanjing University,http://ics.nju.edu.cn/~jyy,4HxZiEcAAAAJ
+- [已提交PR] [已提交Issue]
+Yanyan Jiang 0001,Nanjing University,http://ics.nju.edu.cn/~jyy,4HxZiEcAAAAJ
 https://scholar.google.com/citations?hl=en&user=4HxZiEcAAAAJ
 
 秦逸:
