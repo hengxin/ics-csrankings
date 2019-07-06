@@ -115,9 +115,8 @@ Nanjing University, (未查到精确 dblp 页面, 未查到 homepage, 未查到 
 ## 如何添加信息?
 - [x] 我依照官网以及俞扬老师编写的说明向csrankings仓库提交 pull requests 与 issues
 
-提交PR方法:
-
-提交记录:
+  - 提交PR方法: [ics-csrankings-sync](https://github.com/hengxin/ics-csrankings/blob/master/ics-csrankings-sync.md)
+  - 提交记录: [ics-csrankings-commit](https://github.com/hengxin/ics-csrankings/blob/master/ics-csrankings-commit.md)
 
 ## 分数计算方法
 计算某机构在单一领域的分值:
