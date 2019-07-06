@@ -38,19 +38,25 @@ Jian Lu 0001,Nanjing University,NOSCHOLARPAGE (未查到 homepage, 未查到 goo
 (使用系主页介绍页面: http://cs.nju.edu.cn/58/2a/c2639a153642/page.htm)
 
 陶先平:
+- [已提交PR] [已提交Issue]
 Xianping Tao,Nanjing University,http://moon.nju.edu.cn/people/xianpingtao,F3mGYVoAAAAJ
 更正 (原 moon.nju.edu.cn homepage 已重定向到 ics.nju.edu.cn)
 Xianping Tao,Nanjing University,http://ics.nju.edu.cn/people/xianpingtao,F3mGYVoAAAAJ
+https://scholar.google.com/citations?user=F3mGYVoAAAAJ&hl=en
 
 马晓星:
+- [已提交PR] [已提交Issue]
 Xiaoxing Ma,Nanjing University,http://moon.nju.edu.cn/people/xiaoxingma,44WpWR4AAAAJ
 更正 (原 moon.nju.edu.cn homepage 已重定向到 ics.nju.edu.cn)
 Xiaoxing Ma,Nanjing University,http://ics.nju.edu.cn/people/xiaoxingma,44WpWR4AAAAJ
+https://scholar.google.com/citations?user=44WpWR4AAAAJ&hl=en
 
 许畅:
+- [已提交PR] [已提交Issue]
 Chang Xu 0001,Nanjing University,https://cs.nju.edu.cn/changxu,trs4zioAAAAJ
 更正 (google scholar id 有误):
 Chang Xu 0001,Nanjing University,https://cs.nju.edu.cn/changxu,jlZOlxIAAAAJ
+https://scholar.google.com/citations?user=jlZOlxIAAAAJ&hl=en
 
 ### 数据库中待添加:
 徐锋:
@@ -72,7 +78,9 @@ Chun Cao,Nanjing University,https://ccao.cc/en,U08cMmAAAAAJ
 https://scholar.google.com/citations?hl=en&user=U08cMmAAAAAJ
 
 余萍:
-Ping Yu 0002,Nanjing University,http://ics.nju.edu.cn/people/pingyu,NOSCHOLARPAGE (未查到 google scholar 页面)
+- [已提交PR] [已提交Issue]
+Ping Yu 0002,Nanjing University,http://ics.nju.edu.cn/people/pingyu,LqQ0YXUAAAAJ
+https://scholar.google.com/citations?user=LqQ0YXUAAAAJ&hl=en
 
 ### 助理研究员信息
 马骏:
@@ -105,7 +113,11 @@ https://scholar.google.com/citations?hl=en&user=4HxZiEcAAAAJ
 Nanjing University, (未查到精确 dblp 页面, 未查到 homepage, 未查到 google scholar 页面)
 
 ## 如何添加信息?
-- [ ] 我依照官网以及俞扬老师编写的说明向csrankings仓库提交 pull requests 与 issues
+- [x] 我依照官网以及俞扬老师编写的说明向csrankings仓库提交 pull requests 与 issues
+
+提交PR方法:
+
+提交记录:
 
 ## 分数计算方法
 计算某机构在单一领域的分值:
