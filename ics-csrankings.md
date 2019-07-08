@@ -30,12 +30,14 @@ csrankings 要求提供按如下格式提供信息:
 ### 数据库中已有:
 
 吕建:
+- [已提交PR] [已提交Issue]
 Jian Lu 0001,Nanjing University,https://cs.nju.edu.cn/yuhuang,go8RGMkAAAAJ
 Jian Lv 0001,Nanjing University,https://cs.nju.edu.cn/yuhuang,go8RGMkAAAAJ
 Jian Lü 0001,Nanjing University,https://cs.nju.edu.cn/yuhuang,go8RGMkAAAAJ
 更正 (homepage 有误; google scholar id 有误)
 Jian Lu 0001,Nanjing University,NOSCHOLARPAGE (未查到 homepage, 未查到 google scholar 页面)
 (使用系主页介绍页面: http://cs.nju.edu.cn/58/2a/c2639a153642/page.htm)
+Jian Lu 0001,Nanjing University,http://cs.nju.edu.cn/58/2a/c2639a153642/page.htm,NOSCHOLARPAGE
 
 陶先平:
 - [已提交PR] [已提交Issue]
@@ -63,6 +65,7 @@ https://scholar.google.com/citations?user=jlZOlxIAAAAJ&hl=en
 - [已提交PR] [已提交Issue] 
 Feng Xu 0007,Nanjing University,http://ics.nju.edu.cn/people/fengxu,Fw3wFocAAAAJ
 https://scholar.google.com/citations?hl=en&user=Fw3wFocAAAAJ
+
 黄宇:
 - [已提交PR] [已提交Issue] 
 Yu Huang 0002,Nanjing University,https://cs.nju.edu.cn/yuhuang,UWquqLIAAAAJ
@@ -84,7 +87,9 @@ https://scholar.google.com/citations?user=LqQ0YXUAAAAJ&hl=en
 
 ### 助理研究员信息
 马骏:
-Nanjing University,http://ics.nju.edu.cn/people/junma,NOSCHOLARPAGE (未查到精确 dblp 页面; 未查到 google scholar 页面)
+- [已提交PR] [已提交Issue]
+Jun Ma 0010,Nanjing University,http://ics.nju.edu.cn/people/junma,OkMoxEkAAAAJ
+https://scholar.google.com/citations?hl=en&user=OkMoxEkAAAAJ
 
 汪亮:
 - [已提交PR] [已提交Issue] 
